@@ -6,6 +6,12 @@ This is a small html-to-pdf service build over nodejs, express, phridge and phan
 
 * URL and HTML Payload requests.
 
-## Version 0.1.0
+## Start the service
 
-kellermanrivero
+``` chmod +x ./init.sh && ./init.sh ```
+
+## Test the service
+
+```  curl localhost:8080?url=http://google.com/ -o test.pdf ```
+
+## Version 0.1.0
