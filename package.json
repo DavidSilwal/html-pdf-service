@@ -1,0 +1,21 @@
+{
+  "name": "html-pdf-service",
+  "version": "0.0.1",
+  "description": "HTML-to-PDF service",
+  "main": "app.js",
+  "author": {
+    "name": "Kellerman Rivero",
+    "email": "krsloco@gmail.com"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "file-url": "^2.0.0",
+    "node-constants": "0.0.2",
+    "os-tmpdir": "^1.0.1",
+    "phantomjs": "^1.9.17",
+    "phridge": "^2.0.0",
+    "q": "^1.4.1",
+    "stylus": "*",
+    "tmp": "0.0.26"
+  }
+}

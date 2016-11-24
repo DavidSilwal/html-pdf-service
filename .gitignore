@@ -1,0 +1,9 @@
+node_modules/
+bin/
+obj/
+*.sln
+*.njsproj
+*.config
+.ntvs_analysis.dat
+phantomjs/*.pdf
+*.tmp
