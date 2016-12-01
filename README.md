@@ -8,7 +8,10 @@ This is a small html-to-pdf service build over nodejs, express, phridge and phan
 
 ## Start the service
 
-``` chmod +x ./init.sh && ./init.sh ```
+``` 
+npm install -g forever
+chmod +x ./init.sh && ./init.sh 
+```
 
 ## Test the service
 
