@@ -17,5 +17,9 @@
     "q": "^1.4.1",
     "stylus": "*",
     "tmp": "0.0.26"
+  },
+  "scripts": {
+    "start-forever": "forever start --minUptime 1000 --spinSleepTime 1000 app.js",
+    "start": "node app.js"
   }
 }
