@@ -8,6 +8,7 @@
     "email": "krsloco@gmail.com"
   },
   "dependencies": {
+    "cors": "^2.8.3",
     "express": "3.4.4",
     "file-url": "^2.0.0",
     "node-constants": "0.0.2",
